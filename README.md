@@ -72,3 +72,19 @@ npm run server
 
 # start frontend
 npm start
+
+---
+
+## What I Learned
+- Designing and enforcing role-based access control
+- Structuring REST APIs for clarity and extensibility
+- Handling authentication and authorization as system-level concerns
+- Thinking about correctness and failure modes in backend systems
+
+---
+
+## Future Improvements
+- Add automated tests for critical backend logic
+- Improve handling of concurrent requests
+- Finer-grained permission models
+- Additional security hardening
