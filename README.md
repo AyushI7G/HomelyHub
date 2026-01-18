@@ -1,6 +1,8 @@
 # HomelyHub
 
-HomelyHub is a full-stack web application built to explore **backend system design, role-based access control, and data consistency** in a multi-user environment.
+HomelyHub is a **role-based housing platform** where users can create, browse, and manage property listings, with permissions enforced based on user roles.
+
+It is a full-stack web application built to explore **backend system design, role-based access control, and data consistency** in a multi-user environment.
 
 The project focuses on **engineering correctness, clean APIs, and scalable backend structure**, rather than UI complexity.
 
