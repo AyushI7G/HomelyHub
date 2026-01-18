@@ -1,4 +1,4 @@
-# HomelyHub
+# HomelyHub 🏠
 
 HomelyHub is a **role-based housing platform** where users can create, browse, and manage property listings, with permissions enforced based on user roles.
 
