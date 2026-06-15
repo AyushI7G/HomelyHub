@@ -1,6 +1,6 @@
 # Backend
 
-This folder contains the backend server for the Trip Planner application.
+This folder contains the backend server for the housing platform application.
 
 ## Tech Stack
 - Node.js
